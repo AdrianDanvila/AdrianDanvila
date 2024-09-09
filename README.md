@@ -16,9 +16,6 @@
 
 <p align="left">Hi! I'm Adrian, a passionate Junior Front-end Developer with a solid background in web and cross-platform development. <br><br>For now I have specialized more in Front-end development, but I would like to learn more about the Back-end world improving my skills and trying to get the best of both worlds.<br><br>I have a great curiosity and determination that motivates me to face new challenges and constantly look for opportunities to keep learning.</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/AdrianDanvila/AdrianDanvila/output/snake.svg" alt="Snake animation" />
 
 ###
 
